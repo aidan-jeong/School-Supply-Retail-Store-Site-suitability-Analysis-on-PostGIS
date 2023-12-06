@@ -1,5 +1,5 @@
 # School-Supply-Retail-Store-Site-suitability-Analysis-on-PostGIS
-===================================================
+
 The purpose of this site suitability analysis is to find potential locations for constructing a
 new school supply-retail store (e.g. Staples, Dollarama) in the city of Mississauga.
 This study revolves around site suitability analysis because we wanted to understand the
